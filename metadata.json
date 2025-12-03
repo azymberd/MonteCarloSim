@@ -1,0 +1,5 @@
+{
+  "name": "Monte Carlo Project Sim",
+  "description": "An AI-powered project management simulator using Monte Carlo methods to predict project timelines and resource requirements.",
+  "requestFramePermissions": []
+}
